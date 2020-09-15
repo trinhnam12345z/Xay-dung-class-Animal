@@ -1,0 +1,12 @@
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\bin\Debug\netcoreapp3.1\Xay dung class Animal.exe
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\bin\Debug\netcoreapp3.1\Xay dung class Animal.deps.json
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\bin\Debug\netcoreapp3.1\Xay dung class Animal.runtimeconfig.json
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\bin\Debug\netcoreapp3.1\Xay dung class Animal.runtimeconfig.dev.json
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\bin\Debug\netcoreapp3.1\Xay dung class Animal.dll
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\bin\Debug\netcoreapp3.1\Xay dung class Animal.pdb
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\obj\Debug\netcoreapp3.1\Xay dung class Animal.AssemblyInfoInputs.cache
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\obj\Debug\netcoreapp3.1\Xay dung class Animal.AssemblyInfo.cs
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\obj\Debug\netcoreapp3.1\Xay dung class Animal.csproj.CoreCompileInputs.cache
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\obj\Debug\netcoreapp3.1\Xay dung class Animal.dll
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\obj\Debug\netcoreapp3.1\Xay dung class Animal.pdb
+E:\BT C#\Xay dung class Animal\Xay dung class Animal\obj\Debug\netcoreapp3.1\Xay dung class Animal.genruntimeconfig.cache
